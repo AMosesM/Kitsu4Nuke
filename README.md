@@ -1,3 +1,5 @@
+# This has been moved to https://github.com/tarantulaVFX/Kitsu4Nuke
+
 # Kitsu4Nuke
 Kitsu plugin for Nuke
 
